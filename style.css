@@ -118,6 +118,12 @@ a {
     gap: 30px;
   }
 }
+@media (max-width: 1500px) {
+  .journeyman6 {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
 
 .adept1 {
   font-size: 3rem;
